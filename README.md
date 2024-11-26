@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React,express.js,node**
   
-- 🧠 Interested in **AL/ML**
+- 🧠 Interested in **AI/ML**
 
 - 💬 Ask me about **Web**
 
