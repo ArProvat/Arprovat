@@ -43,6 +43,11 @@
 <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg"   width='60'  height='60' /></a>
  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"  width='60'  height='60' /></a>  
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width='60'  height='60' /> </a>
+        <a> <img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white' width='100'  height='80' ></a>
+  <a> <img src='https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black' width='100'  height='80' ></a>
+    <a> <img src='https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white' width='100'  height='80' ></a>
+
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arprovat&show_icons=true&locale=en&layout=compact" alt="arprovat" /></p>
