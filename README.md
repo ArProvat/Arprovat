@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn7.makebg.com/generate/anime maker/a123854cdcf743a687f95e58368e0eb5.png">
 
 ```python
 class AIEngineer:
