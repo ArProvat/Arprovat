@@ -67,7 +67,7 @@ me.say_hi()
 🌱 **Learning:** Advanced agentic workflows with **LangGraph** & **CrewAI**  
 💡 **Passionate about:** NLP, RAG systems, and intelligent conversational AI  
 🎯 **2025 Goals:** Contribute to open-source AI projects & build production-grade LLM apps  
-📫 **Reach me:** provatar0@gmail.com | [Portfolio](https://mdabdurrahmanportfolio.vercel.app)
+📫 **Reach me:** provatar0@gmail.com | [Portfolio](https://arprovat-portfolio-hub.vercel.app/)
 
 ---
 
