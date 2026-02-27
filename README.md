@@ -129,9 +129,8 @@ My work sits at the intersection of NLP, retrieval-augmented generation, and ful
 ---
 
 ## Achievements
-
-- 🏆 **Winner** — BUBT AI Conquest
-- 🎖️ **Top Participant** — BLP NLP Workshop
+ 
+- 🎖️ **Top Participant** — BLP NLP Workshop ,BUBT AI Conquest
 - 💡 **100+ LeetCode problems** solved
 
 ---
