@@ -18,31 +18,35 @@
 
 ## About Me
 
-I'm an **AI Engineer at Betopia Limited**, building production-grade LLM systems — retrieval pipelines, multi-agent orchestration, and model fine-tuning. Named **Betopia AI Champion (2026)**, ranked top AI Engineer across all business units.
+I build AI systems from retrieval and agent orchestration to model serving and application delivery. My work focuses on self-hosted LLM infrastructure, stateful agent runtimes, and grounded search over enterprise data.
 
-My focus is self-hosted LLM infrastructure at enterprise scale: **vLLM** for GPU serving, **LangGraph** for agentic workflows, hybrid **RAG**, and **LoRA/QLoRA/GRPO** for fine-tuning — in Python and FastAPI.
-
-**Currently building:**
-- 🏗️ Role-aware Agentic RAG platform (2,200+ enterprise users)
-- 🤖 Self-hosted Betopia.ai on Qwen3 via vLLM (96 GB NVIDIA Blackwell)
-- 🔗 Multimodal document pipelines (OCR + vision-language models)
+Currently an **AI Engineer at Betopia Limited**, building the Betopia AI ecosystem: an LLM API gateway, web chat, coding-agent CLI, and IDE extension. The platform is in beta with **700+ employees** and used daily by the engineering team.
 
 <br clear="right"/>
 
 ---
+## Engineering focus
 
+- **Agent systems** — LangGraph workflows, tool calling, persistent conversation state, sandboxed execution, and repository-aware retrieval.
+- **Context engineering** — prompt assembly across system, project, repository, and session sources; summarization and eviction for long sessions.
+- **Retrieval** — hybrid dense/BM25 search, cross-encoder reranking, access-scoped retrieval, and source citations.
+- **Inference** — self-hosted models with vLLM, continuous batching, prefix caching, and streaming delivery.
+- **Model adaptation** — parameter-efficient fine-tuning with LoRA/QLoRA and reward-based optimization with GRPO.
+---
 ## Experience
 
-**🏢 AI Engineer — Betopia Limited** &nbsp;`Mar 2026 – Present`
-- Designed a role-aware Agentic RAG platform with RBAC-secured hybrid search (vector + BM25), multi-agent orchestration, and citation-grounded answers over 500+ operational documents
-- Engineered a multimodal document pipeline (OCR, vision-language models, semantic chunking, Qdrant) enabling source-traceable Q&A over PDFs, tables, and diagrams
-- Built Betopia.ai — self-hosted Qwen3 on vLLM (96 GB NVIDIA Blackwell) with sub-second completions, tool-use, sandboxed code execution, and repo-aware retrieval via LangGraph
-- Optimized vLLM throughput with continuous batching and 8-bit quantization under concurrent enterprise load
+**Betopia Limited · AI Engineer**  
+March 2026 — Present
 
-**🏢 AI Developer — SM Technology** &nbsp;`Nov 2025 – Feb 2026`
-- Built an AI fitness platform with LLM-generated workout/nutrition plans on a modular FastAPI + Docker backend
-- Designed a four-stage recommendation pipeline (retrieval → ranking → cross-encoder re-ranking → metadata filtering) on PGVector
-- Deployed a voice-enabled RAG system with hybrid dense/sparse retrieval over a large educational document corpus
+- Built the internal AI platform across API, web, CLI, and IDE interfaces.
+- Deployed self-hosted LLMs using vLLM on a 96 GB NVIDIA Blackwell GPU.
+- Implemented the LangGraph agent runtime, context assembly, and SSE streaming.
+
+**SM Technology · AI Engineer**  
+November 2025 — February 2026 · A Betopia Limited business unit
+
+- Designed **Firecomm AI**, an agentic RAG platform for **2,200+ enterprise users**, with RBAC-scoped hybrid retrieval and cited answers over **500+ operational documents**.
+- Built recommendation pipelines using pgvector and cross-encoder reranking, alongside FastAPI services for fitness and voice-enabled RAG applications.
 
 ---
 
@@ -50,10 +54,10 @@ My focus is self-hosted LLM infrastructure at enterprise scale: **vLLM** for GPU
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **⚖️ Lawyer.AI** | Multi-agent legal chatbot with hybrid RAG (dense + BM25), cross-encoder re-ranking, citation-aware prompting, and SQLite checkpointing | LangGraph · ChromaDB · Streamlit |
-| **🧠 GRPO Fine-Tuning** | Full RLHF training loop with Group Relative Policy Optimisation — reward modelling and policy-gradient optimisation for instruction-following | HF TRL · GRPO · Transformers |
-| **🗣️ Bangla Hate-Speech Classifier** | Fine-tuned BanglaBERT with LoRA/QLoRA; 72% accuracy, ~60% GPU memory reduction via 4-bit quantization | PEFT · BanglaBERT · HuggingFace |
-| **💰 Expense Tracker (MCP)** | Natural language finance tracker bridging Claude tool-use to a PostgreSQL backend over Model Context Protocol | FastMCP · PostgreSQL · Claude API |
+| **Lawyer.AI** | Multi-agent legal chatbot with hybrid RAG (dense + BM25), cross-encoder re-ranking, citation-aware prompting, and SQLite checkpointing | LangGraph · ChromaDB · Streamlit |
+| **GRPO Fine-Tuning** | Full RLHF training loop with Group Relative Policy Optimisation — reward modelling and policy-gradient optimisation for instruction-following | HF TRL · GRPO · Transformers |
+| **Bangla Hate-Speech Classifier** | Fine-tuned BanglaBERT with LoRA/QLoRA; 72% accuracy, ~60% GPU memory reduction via 4-bit quantization | PEFT · BanglaBERT · HuggingFace |
+| **Expense Tracker (MCP)** | Natural language finance tracker bridging Claude tool-use to a PostgreSQL backend over Model Context Protocol | FastMCP · PostgreSQL · Claude API |
 
 ---
 ## Tech Stack
@@ -113,18 +117,19 @@ My focus is self-hosted LLM infrastructure at enterprise scale: **vLLM** for GPU
 
 ---
 
-## Achievements
+## Background
 
+👨‍🎓 **B.Sc. in Computer Science and Engineering**, Green University of Bangladesh · 2026  
 🏆 **Betopia AI Champion (2026)** — top AI Engineer across all Strategic Business Units of Betopia Limited  
 🎖️ Top participant — BLP NLP Workshop, BUBT AI Conquest  
-💡 100+ LeetCode problems solved (dynamic programming, graph algorithms, system optimization)
+💡 100+ LeetCode problems solved 
 
----
+
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:3B82F6&height=80&section=footer" />
 
-*Open to collaborating on RAG systems, LLMs, and agentic AI — provatar0@gmail.com*
+*Interested in collaborating on LLM infrastructure, retrieval systems, and developer tools. [Get in touch →](mailto:provatar0@gmail.com)*
 
 </div>
